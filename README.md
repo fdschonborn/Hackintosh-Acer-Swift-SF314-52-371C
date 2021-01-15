@@ -1,7 +1,12 @@
 <!-- markdownlint-disable MD024 MD033 -->
+
+<div align="center">
+
 # Hackintosh for [Acer Swift SF314-52-371C][snlookup]
 
 _An attempt to get macOS Catalina running on an old, low-end laptop nobody cares about._
+
+</div>
 
 ## [OpenCore][opencore]
 
