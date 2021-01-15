@@ -3,6 +3,8 @@
 
 # Hackintosh for [Acer Swift SF314-52-371C][laptop-model]
 
+_An attempt to get macOS running on an old, low-end laptop nobody cares about._
+
 </div>
 
 ## [OpenCore][opencore]
