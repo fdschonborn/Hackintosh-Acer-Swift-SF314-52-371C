@@ -54,6 +54,24 @@ Version: `0.6.5-DEBUG`.
 
 [IntelBluetoothFirmware][intelbluetoothfirmware]: `1.1.2`
 
+## [SSDTs][ssdts]
+
+### CPU
+
+[SSDT-PLUG][ssdt-plug]: Prebuilt (commit `3756ef9`).
+
+### EC
+
+[SSDT-EC-USBX][ssdt-ec-usbx]: Prebuilt (`SSDT-EC-USBX-LAPTOP.aml`, commit `3756ef9`).
+
+### Backlight
+
+[SSDT-PNLF][ssdt-pnlf]: Prebuilt (`SSDT-PNLF.aml`, commit `3756ef9`).
+
+### Trackpad
+
+[SSDT-GPI0/XOSI][ssdt-gpi0-xosi]: Prebuilt (commit `3756ef9`).
+
 <div align="center">
 
 <br/>
@@ -78,3 +96,8 @@ Version: `0.6.5-DEBUG`.
 [usbinjectall]: https://bitbucket.org/RehabMan/os-x-usb-inject-all
 [airportitlwm]: https://github.com/OpenIntelWireless/itlwm
 [intelbluetoothfirmware]: https://github.com/OpenIntelWireless/IntelBluetoothFirmware
+[ssdts]: https://dortania.github.io/OpenCore-Install-Guide/ktext.html#ssdts
+[ssdt-plug]: https://dortania.github.io/Getting-Started-With-ACPI/Universal/plug.html
+[ssdt-ec-usbx]: https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-fix.html
+[ssdt-pnlf]: https://dortania.github.io/Getting-Started-With-ACPI/Laptops/backlight.html
+[ssdt-gpi0-xosi]: https://dortania.github.io/Getting-Started-With-ACPI/Laptops/trackpad.html
