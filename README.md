@@ -56,7 +56,7 @@ Version: `0.6.5-DEBUG`.
 
 ### Input
 
-[VoodooI2C][voodooi2c]: `2.6.3` (Debug).
+[VoodooI2C][voodooi2c]: `2.6.3`.
 
 ## [SSDTs][ssdts]
 
