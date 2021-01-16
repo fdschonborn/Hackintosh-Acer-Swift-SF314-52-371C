@@ -56,6 +56,7 @@ Version: `0.6.5-DEBUG`.
 
 ### Input
 
+[VoodooPS2][voodoops2]: `2.2.0-DEBUG`.
 [VoodooI2C][voodooi2c]: `2.6.3`.
 
 ## [SSDTs][ssdts]
@@ -104,6 +105,7 @@ Version: `0.6.5-DEBUG`.
 [usbinjectall]: https://bitbucket.org/RehabMan/os-x-usb-inject-all
 [airportitlwm]: https://github.com/OpenIntelWireless/itlwm
 [intelbluetoothfirmware]: https://github.com/OpenIntelWireless/IntelBluetoothFirmware
+[voodoops2]: https://github.com/acidanthera/VoodooPS2
 [voodooi2c]: https://github.com/VoodooI2C/VoodooI2C
 [ssdts]: https://dortania.github.io/OpenCore-Install-Guide/ktext.html#ssdts
 [ssdt-plug]: https://dortania.github.io/Getting-Started-With-ACPI/Universal/plug.html
