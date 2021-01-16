@@ -40,7 +40,7 @@ Version: `0.6.5-DEBUG`.
 
 ### Ethernet
 
-[IntelMausi][intelmausi]: `1.0.5-DEBUG`.
+[IntelMausi + IntelSnowMausi][intelmausi]: `1.0.5-DEBUG`.
 
 ### USB
 
@@ -56,8 +56,10 @@ Version: `0.6.5-DEBUG`.
 
 ### Input
 
-[VoodooPS2][voodoops2]: `2.2.0-DEBUG`.
+[VoodooInput][voodooinput]: `1.0.9-DEBUG`.
 [VoodooI2C][voodooi2c]: `2.6.3`.
+[VoodooPS2][voodoops2]: `2.2.0-DEBUG`.
+[VoodooRMI][voodoormi]: `1.3-Debug`.
 
 ## [SSDTs][ssdts]
 
@@ -105,8 +107,10 @@ Version: `0.6.5-DEBUG`.
 [usbinjectall]: https://bitbucket.org/RehabMan/os-x-usb-inject-all
 [airportitlwm]: https://github.com/OpenIntelWireless/itlwm
 [intelbluetoothfirmware]: https://github.com/OpenIntelWireless/IntelBluetoothFirmware
-[voodoops2]: https://github.com/acidanthera/VoodooPS2
+[voodooinput]: https://github.com/acidanthera/VoodooInput
 [voodooi2c]: https://github.com/VoodooI2C/VoodooI2C
+[voodoops2]: https://github.com/acidanthera/VoodooPS2
+[voodoormi]: https://github.com/VoodooSMBus/VoodooRMI
 [ssdts]: https://dortania.github.io/OpenCore-Install-Guide/ktext.html#ssdts
 [ssdt-plug]: https://dortania.github.io/Getting-Started-With-ACPI/Universal/plug.html
 [ssdt-ec-usbx]: https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-fix.html
