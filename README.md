@@ -72,6 +72,10 @@ Version: `0.6.5-DEBUG`.
 
 [SSDT-GPI0/XOSI][ssdt-gpi0-xosi]: Prebuilt (commit `3756ef9`).
 
+## Resources
+
+- [OpenCore Sanity Checker][opencore-sanity-checker].
+
 <div align="center">
 
 <br/>
@@ -101,3 +105,4 @@ Version: `0.6.5-DEBUG`.
 [ssdt-ec-usbx]: https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-fix.html
 [ssdt-pnlf]: https://dortania.github.io/Getting-Started-With-ACPI/Laptops/backlight.html
 [ssdt-gpi0-xosi]: https://dortania.github.io/Getting-Started-With-ACPI/Laptops/trackpad.html
+[opencore-sanity-checker]: https://opencore.slowgeek.com/
