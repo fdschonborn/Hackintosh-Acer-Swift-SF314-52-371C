@@ -52,7 +52,11 @@ Version: `0.6.5-DEBUG`.
 
 ### Bluetooth
 
-[IntelBluetoothFirmware][intelbluetoothfirmware]: `1.1.2`
+[IntelBluetoothFirmware][intelbluetoothfirmware]: `1.1.2`.
+
+### Input
+
+[VoodooI2C][voodooi2c]: `2.6.3` (Debug).
 
 ## [SSDTs][ssdts]
 
@@ -100,6 +104,7 @@ Version: `0.6.5-DEBUG`.
 [usbinjectall]: https://bitbucket.org/RehabMan/os-x-usb-inject-all
 [airportitlwm]: https://github.com/OpenIntelWireless/itlwm
 [intelbluetoothfirmware]: https://github.com/OpenIntelWireless/IntelBluetoothFirmware
+[voodooi2c]: https://github.com/VoodooI2C/VoodooI2C
 [ssdts]: https://dortania.github.io/OpenCore-Install-Guide/ktext.html#ssdts
 [ssdt-plug]: https://dortania.github.io/Getting-Started-With-ACPI/Universal/plug.html
 [ssdt-ec-usbx]: https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-fix.html
