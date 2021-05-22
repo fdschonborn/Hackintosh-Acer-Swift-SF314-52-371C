@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD024 MD033 -->
+<!-- markdownlint-disable MD024 MD033 MD041 -->
 
 <div align="center">
 
@@ -10,14 +10,14 @@ _An attempt to get macOS Catalina running on an old, low-end laptop nobody cares
 
 ## [OpenCore][opencore]
 
-Version: `0.6.5-DEBUG`.
+Version: `0.6.9-DEBUG`.
 
 ## [Firmware Drivers][firmware-drivers]
 
 ### Required
 
-- `OpenRuntime.efi`: From OpenCorePkg.
-- [`HfsPlus.efi`][hfsplus]: Commit `192ed42`.
+- `OpenRuntime.efi`
+- [`HfsPlus.efi`][hfsplus]
 
 ## [Kexts][kexts]
 
