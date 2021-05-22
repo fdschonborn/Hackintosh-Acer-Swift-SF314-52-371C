@@ -96,7 +96,7 @@ Version: `0.6.9-DEBUG`.
 [snlookup]: https://snlookup.com/acer-swift-sf314-52-ultra-thin-nx-gplal-003-p110150
 [opencore]: https://github.com/acidanthera/OpenCorePkg
 [firmware-drivers]: https://dortania.github.io/OpenCore-Install-Guide/ktext.html#firmware-drivers
-[hfsplus]: https://github.com/acidanthera/OcBinaryData/blob/master/Drivers/HfsPlus.efi
+[hfsplus]: https://github.com/acidanthera/OcBinaryData/blob/95b7d4ccb9fea6af48641fc1f5bd4b57f747b235/Drivers/HfsPlus.efi
 [kexts]: https://dortania.github.io/OpenCore-Install-Guide/ktext.html#kexts
 [virtualsmc]: https://github.com/acidanthera/VirtualSMC
 [lilu]: https://github.com/acidanthera/Lilu
