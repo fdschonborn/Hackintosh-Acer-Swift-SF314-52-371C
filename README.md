@@ -66,31 +66,23 @@ Satellites:
 
 ### CPU
 
-[SSDT-PLUG][ssdt-plug]: Prebuilt (commit `3756ef9`).
+[SSDT-PLUG][ssdt-plug]: Prebuilt.
 
 ### EC
 
-[SSDT-EC-USBX][ssdt-ec-usbx]: Prebuilt (`SSDT-EC-USBX-LAPTOP.aml`, commit `3756ef9`).
+[SSDT-EC-USBX-LAPTOP][ssdt-ec-usbx-laptop]: Prebuilt.
 
 ### Backlight
 
-[SSDT-PNLF][ssdt-pnlf]: Prebuilt (`SSDT-PNLF.aml`, commit `3756ef9`).
+[SSDT-PNLF][ssdt-pnlf]: Prebuilt.
 
 ### Trackpad
 
-[SSDT-GPI0/XOSI][ssdt-gpi0-xosi]: Prebuilt (commit `3756ef9`).
+[SSDT-XOSI][ssdt-xosi]: Prebuilt.
 
 ## Resources
 
 - [OpenCore Sanity Checker][opencore-sanity-checker].
-
-<div align="center">
-
-<br/>
-
-**_TODO_**
-
-</div>
 
 <!-- Links -->
 
@@ -113,8 +105,8 @@ Satellites:
 [ecenabler]: https://github.com/1Revenger1/ECEnabler
 [bkeys]: https://github.com/acidanthera/BrightnessKeys
 [ssdts]: https://dortania.github.io/OpenCore-Install-Guide/ktext.html#ssdts
-[ssdt-plug]: https://dortania.github.io/Getting-Started-With-ACPI/Universal/plug.html
-[ssdt-ec-usbx]: https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-fix.html
-[ssdt-pnlf]: https://dortania.github.io/Getting-Started-With-ACPI/Laptops/backlight.html
-[ssdt-gpi0-xosi]: https://dortania.github.io/Getting-Started-With-ACPI/Laptops/trackpad.html
+[ssdt-plug]: https://github.com/dortania/Getting-Started-With-ACPI/blob/b8e37ede5ec68165918cfd611e2afd3075f7fe27/extra-files/compiled/SSDT-PLUG-DRTNIA.aml
+[ssdt-ec-usbx-laptop]: https://github.com/dortania/Getting-Started-With-ACPI/blob/b8e37ede5ec68165918cfd611e2afd3075f7fe27/extra-files/compiled/SSDT-EC-USBX-LAPTOP.aml
+[ssdt-pnlf]: https://github.com/dortania/Getting-Started-With-ACPI/blob/b8e37ede5ec68165918cfd611e2afd3075f7fe27/extra-files/compiled/SSDT-PNLF.aml
+[ssdt-xosi]: https://github.com/dortania/Getting-Started-With-ACPI/blob/b8e37ede5ec68165918cfd611e2afd3075f7fe27/extra-files/compiled/SSDT-XOSI.aml
 [opencore-sanity-checker]: https://opencore.slowgeek.com/
